@@ -5,3 +5,6 @@ Password: 123123
 
 Username: pixelvoices
 Password: mylifeevowold
+
+Username: jesternandu
+Password: lalalal2030
